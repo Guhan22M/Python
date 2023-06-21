@@ -24,3 +24,4 @@
 23.Calculating simple interest by using function <br />
 24.Creating functions to calculting volume and area of some shapes <br />
 25.Checking Odd or Even if the number is odd then find factorial of a number and counting number of digits. if the number is even then find whether the number is palindrome or not <br />
+26.Checking the given power of given base
